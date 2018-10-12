@@ -2,7 +2,8 @@
 void main()
 {
     int x,y,z,j=0;
-    clrscr();
+    sys(clr);
+    //clrscr();
     puts("************************************************");
     puts("*      This program is to solve Problem of     *");
     puts("*           Hundred Yuan Hundred Fowls.        *");
@@ -26,4 +27,4 @@ void main()
     puts("\n Press any key to quit...");
     getch();
 }
-
+

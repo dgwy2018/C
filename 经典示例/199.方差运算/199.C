@@ -18,7 +18,7 @@ for(i=0;i<odd;i++)
 totfc+=(yy[i]-ave1)*(yy[i]-ave1)/odd; 
 } 
 
-void main() 
+int main()
 { 
 	int i; 
 	Compute(); 

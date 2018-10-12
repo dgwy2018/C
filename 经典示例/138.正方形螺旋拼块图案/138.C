@@ -3,7 +3,7 @@
 void polygonc();
 void block();
 
-void main()
+int main()
 {
 	int i,j,a,length,n,theta,x=100,y=350;
 	int gdriver=DETECT,gmode;
@@ -67,4 +67,4 @@ int x,y,a,n,theta;
 		r=r*f;
 		af=af-theta;
 	}
-}
+}
